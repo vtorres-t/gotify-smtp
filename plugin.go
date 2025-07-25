@@ -30,7 +30,7 @@ func GetGotifyPluginInfo() plugin.Info {
 		Name:       "SMTP",
 		ModulePath: "github.com/tystuyfzand/gotify-smtp",
 		Author:     "Tyler Stuyfzand",
-		Website:    "https://meow.tf",
+		Website:    "",
 	}
 }
 

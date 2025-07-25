@@ -1,6 +1,6 @@
 module github.com/tystuyfzand/gotify-smtp
 
-go 1.16
+go 1.23.0
 
 require (
 	github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21
