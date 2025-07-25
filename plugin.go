@@ -28,8 +28,8 @@ var (
 func GetGotifyPluginInfo() plugin.Info {
 	return plugin.Info{
 		Name:       "SMTP",
-		ModulePath: "github.com/tystuyfzand/gotify-smtp",
-		Author:     "Tyler Stuyfzand",
+		ModulePath: "github.com/vtorres-t/gotify-smtp",
+		Author:     "",
 		Website:    "",
 	}
 }

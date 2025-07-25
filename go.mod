@@ -1,4 +1,4 @@
-module github.com/tystuyfzand/gotify-smtp
+module github.com/vtorres-t/gotify-smtp
 
 go 1.23.0
 
